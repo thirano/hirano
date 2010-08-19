@@ -1,2 +1,1 @@
-X社から貰ったテキストファイル
-    
+txt file from x-company
